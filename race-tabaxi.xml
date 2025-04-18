@@ -91,6 +91,7 @@
 			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_FELINE_AGILITY" />
 			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_CLAWS" />
 			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_TALENT" />
+			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_LANDING" />
 		</rules>
 	</element>
 	<element name="Feline Agility" type="Racial Trait" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_FELINE_AGILITY">
@@ -124,4 +125,12 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_STEALTH" />
 		</rules>
 	</element>  
+	<element name="Cat’s Landing" type="Racial Trait" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_LANDING">
+		<description>
+			<p>Safely fall up to 10 meters without fall damage. When falling more than 10 meters, throw a dexterity saving throw made by the DM (based on the height and circumstances).</p>
+		</description>
+		<sheet>
+			<description>Safely fall up to 10 meters without fall damage. When falling more than 10 meters, throw a dexterity saving throw made by the DM (based on the height and circumstances).</description>
+		</sheet>
+	</element>
 </elements>
