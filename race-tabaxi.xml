@@ -3,7 +3,7 @@
 	<info>
 		<name>Tabaxi</name>
 		<update version="0.0.9">
-			<file name="race-tabaxi.xml" url="https://raw.githubusercontent.com/LL6292/Test/refs/heads/main/race-tabaxi.xml?token=GHSAT0AAAAAADCOJO7TRC3KDKTKPTFBGZCG2ACIIAQ" />
+			<file name="race-tabaxi.xml" url="https://raw.githubusercontent.com/LL6292/Test/refs/heads/main/race-tabaxi.xml?token=GHSAT0AAAAAADSLZUVUUJBAQIVZ7G6OBYVS2KZDEOQ" />
 		</update>
 	</info>
 	<element name="Tabaxi" type="Race" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACE_TAXBAXI">
